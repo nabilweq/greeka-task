@@ -15,6 +15,8 @@ A RESTful API built with NestJS, PostgreSQL, and TypeORM for managing tasks. Inc
 - Environment-based configuration using `.env`
 - A sample env file with field names is there named as `.env.example`
 - For deleting the task, here Iam used soft delete
+- Hosted url - `https://greeka-task.onrender.com`
+- API Docs - `https://greeka-task.onrender.com/api-docs`
 
 ---
 
